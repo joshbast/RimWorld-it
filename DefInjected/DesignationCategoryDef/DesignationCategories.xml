@@ -16,7 +16,7 @@
     <Furniture.label>accessori</Furniture.label>
     <Furniture.description>Piccole construzioni.</Furniture.description>
     
-    <Power.label>alimentazione</Power.label>
+    <Power.label>energia</Power.label>
     <Power.description>Produzione energetica, trasmissione, e manutenzione.</Power.description>
     
     <Security.label>difesa</Security.label>
